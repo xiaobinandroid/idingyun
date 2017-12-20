@@ -1,0 +1,108 @@
+{
+    "project_type": "gradle",
+    "android_gradle_plugin_version": "3.0.1",
+    "freeline_gradle_plugin_version": "0.8.8",
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_60",
+    "freeline_cache_dir": "E:\\android-workapace\\idingyun",
+    "auto_dependency": true,
+    "product_flavor": "",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "root_dir": "E:\\android-workapace\\idingyun",
+    "main_project_name": "app",
+    "main_project_dir": "app",
+    "build_directory": "E:\\android-workapace\\idingyun\\app\\build",
+    "build_cache_dir": "E:\\android-workapace\\idingyun\\app\\build\\freeline",
+    "build_tools_version": "26.0.2",
+    "sdk_directory": "F:\\sdk",
+    "build_tools_directory": "F:\\sdk\\build-tools\\26.0.2",
+    "compile_sdk_version": "android-26",
+    "compile_sdk_directory": "F:\\sdk\\platforms\\android-26",
+    "package": "com.fuhui.idingyun",
+    "debug_package": "com.fuhui.idingyun",
+    "main_manifest_path": "E:\\android-workapace\\idingyun\\app\\src\\main\\AndroidManifest.xml",
+    "launcher": "com.fuhui.idingyun.MainActivity",
+    "apk_path": "E:\\android-workapace\\idingyun\\app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "extra_dep_res_paths": [
+        
+    ],
+    "exclude_dep_res_paths": [
+        
+    ],
+    "main_r_path": "E:\\android-workapace\\idingyun\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "use_jdk8": true,
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "use_system_gradle": false,
+    "check_sources_md5": [
+        
+    ],
+    "main_src_directory": [
+        "E:\\android-workapace\\idingyun\\app\\src\\debug\\java",
+        "E:\\android-workapace\\idingyun\\app\\src\\main\\java"
+    ],
+    "main_res_directory": [
+        "E:\\android-workapace\\idingyun\\app\\src\\debug\\res",
+        "E:\\android-workapace\\idingyun\\app\\src\\main\\res"
+    ],
+    "main_assets_directory": [
+        "E:\\android-workapace\\idingyun\\app\\src\\debug\\assets",
+        "E:\\android-workapace\\idingyun\\app\\src\\main\\assets"
+    ],
+    "main_jni_directory": [
+        "E:\\android-workapace\\idingyun\\app\\src\\debug\\jni",
+        "E:\\android-workapace\\idingyun\\app\\src\\main\\jni"
+    ],
+    "main_jniLibs_directory": [
+        "E:\\android-workapace\\idingyun\\app\\src\\debug\\jniLibs",
+        "E:\\android-workapace\\idingyun\\app\\src\\main\\jniLibs"
+    ],
+    "project_source_sets": {
+        "app": {
+            "main_src_directory": [
+                "E:\\android-workapace\\idingyun\\app\\src\\debug\\java",
+                "E:\\android-workapace\\idingyun\\app\\src\\main\\java"
+            ],
+            "main_res_directory": [
+                "E:\\android-workapace\\idingyun\\app\\src\\debug\\res",
+                "E:\\android-workapace\\idingyun\\app\\src\\main\\res"
+            ],
+            "main_assets_directory": [
+                "E:\\android-workapace\\idingyun\\app\\src\\debug\\assets",
+                "E:\\android-workapace\\idingyun\\app\\src\\main\\assets"
+            ],
+            "main_jni_directory": [
+                "E:\\android-workapace\\idingyun\\app\\src\\debug\\jni",
+                "E:\\android-workapace\\idingyun\\app\\src\\main\\jni"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\android-workapace\\idingyun\\app\\src\\debug\\jniLibs",
+                "E:\\android-workapace\\idingyun\\app\\src\\main\\jniLibs"
+            ],
+            "main_manifest_path": "E:\\android-workapace\\idingyun\\app\\src\\main\\AndroidManifest.xml"
+        }
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "E:\\android-workapace\\idingyun\\app"
+        }
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ]
+}
